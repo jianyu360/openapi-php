@@ -1,6 +1,6 @@
 <?php
 
-$keyword='万达信息股份有限公司';
+$keyword='涓囪揪淇℃伅鑲′唤鏈夐檺鍏徃';
 $appid="jyo_test";
 $secret="test";
 $time=time();
